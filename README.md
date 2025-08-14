@@ -4,9 +4,9 @@
 
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Made with](https://img.shields.io/badge/made%20with-Windsurf-6C63FF)
-![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38BDF8?logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <br/>
